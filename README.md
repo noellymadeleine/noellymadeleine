@@ -1,3 +1,5 @@
+![Data Science Image](banderole.png)
+
 # Noelly's Data Science Portfolio  👋
 
 Welcome to my GitHub profile! This repository showcases my work as a versatile data scientist, focusing on data analysis, visualization, and machine learning (AI). Here you will find projects and code samples in Python, SQL, and R, demonstrating my skills and passion for leveraging data to gain insights and build predictive models. 
