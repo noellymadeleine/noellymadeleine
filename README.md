@@ -18,7 +18,7 @@ Feel free to explore the projects and code samples in this repository to get a d
 
 I am always eager to connect with other data enthusiasts and professionals. If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me via the following channels:
 
-- Email : [noelly@email.com](mailto:noelly@email.com) 
+- Email : [email](mailto:noelly.madeleine@gmail.com) 
 - LinkedIn: [LinkedIn](https://fr.linkedin.com/in/noelly-madeleine-62b62699)
 
 Thank you for visiting my profile repository, and I hope you find my work informative and inspiring!
